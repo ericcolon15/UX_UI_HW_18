@@ -76,12 +76,11 @@
     text-align: center;
 }
 
-.flexChildren, h4{
+.flexChildren{
     color: white;
     font-family: sans-serif;
 }
 
-.h1{
-    color: #315BC6;
-    font-family: Arial, Helvetica, sans-serif;
+.workGrid{
+    display: grid;
 }
